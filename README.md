@@ -146,18 +146,3 @@ Through this repository, I aim to:
 * Build a solid foundation for advanced topics such as system programming and software development
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## 🚀 Future Enhancements :
-
-Planned additions include:
-
-* Modern C++ (C++11/14/17/20) features
-* Move Semantics
-* Lambda Expressions
-* Templates and Generic Programming
-* Multithreading in C++
-* Design Pattern Implementations
-* Competitive Programming problems
-* System Programming concepts using C++
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
